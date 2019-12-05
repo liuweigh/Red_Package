@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6c90b6c-5913-442b-8e87-adb36b23eb52" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RedPackage.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/MyAPP$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/MyAPP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/MyJFreame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/OpenMode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/RedPacketFrame$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/RedPacketFrame$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/RedPacketFrame$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/RedPacketFrame$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/RedPacketFrame$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/RedPacketFrame$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/RedPackage/com/itheima/demo11_发红包/RedPacketFrame.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,18 +92,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575547081340</updated>
-      <workItem from="1575547086040" duration="1629000" />
+      <workItem from="1575547086040" duration="2667000" />
     </task>
+    <task id="LOCAL-00001" summary="随机红包">
+      <created>1575549056927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575549056927</updated>
+    </task>
+    <task id="LOCAL-00002" summary="随机红包第二次">
+      <created>1575549193903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1575549193903</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="随机红包" />
+    <MESSAGE value="随机红包第二次" />
+    <option name="LAST_COMMIT_MESSAGE" value="随机红包第二次" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1575549056180">
+    <state x="263" y="0" key="CommitChangelistDialog2" timestamp="1575549193159">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1575549056180" />
+    <state x="263" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1575549193159" />
     <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1575548784882">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
@@ -121,10 +148,10 @@
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="144" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1575548759985" />
-    <state x="233" y="81" key="Vcs.Push.Dialog.v2" timestamp="1575549141929">
+    <state x="233" y="81" key="Vcs.Push.Dialog.v2" timestamp="1575549199137">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="233" y="81" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1575549141929" />
+    <state x="233" y="81" key="Vcs.Push.Dialog.v2/0.0.1280.689@0.0.1280.689" timestamp="1575549199137" />
     <state x="435" y="147" key="git4idea.merge.GitMergeDialog" timestamp="1575549120083">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
